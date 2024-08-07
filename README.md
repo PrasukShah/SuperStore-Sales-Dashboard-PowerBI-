@@ -1,7 +1,5 @@
 # Superstore Sales Dashboard
 
-![Superstore Sales Dashboard](path-to-image/superstore-sales-dashboard.png)
-
 ## 📊 Overview
 
 Welcome to the **Superstore Sales Dashboard** project, built using Microsoft Power BI. This dashboard provides an insightful analysis of sales performance, customer behavior, and operational efficiency for a hypothetical superstore. The goal is to empower stakeholders with data-driven insights that can drive strategic decision-making and improve business outcomes.
