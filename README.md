@@ -1,6 +1,6 @@
 # Superstore Sales Dashboard
 
-![Superstore-Sales-Dashboard-PoweBI-](path-to-image/superstore-sales-dashboard.png)
+![Superstore Sales Dashboard](path-to-image/superstore-sales-dashboard.png)
 
 ## 📊 Overview
 
