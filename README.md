@@ -16,6 +16,4 @@ Welcome to the **Superstore Sales Dashboard** project, built using Microsoft Pow
 ## 🛠️ Technology Stack
 
 - **Power BI**: For data visualization and dashboard creation.
-- **SQL**: For data extraction and manipulation.
 - **Excel**: For initial data cleaning and preparation.
-- **Azure**: For cloud data storage and management.
